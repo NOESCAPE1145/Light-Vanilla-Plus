@@ -1,0 +1,21 @@
+{
+   "format_version": 2,
+   "header": {         
+      "description": "§eDev版！！！\n§c·警告：此材质包还在测试阶段，并不代表最终成果！\n§c错误：位于“sounds”的“sound_definitions.json”中“close.nether_wood_door”等声音事件出错，无法第一时间修补！\n§b更新内容：\n§e·加入了自制樱花树叶纹理",
+      "name": "§b[Dev1.1.0]§dNewja Eastern's Texture Pack",
+      "uuid": "f7bab8a6-4679-442e-8bb4-08f91089eaa2",
+      "version": [1, 1, 0],
+      "min_engine_version": [1, 21, 0]
+   },    
+   "modules": [
+      {
+         "description": "§bDev版！！！\n§c·警告：此材质包还在测试阶段，并不代表最终成果！\n§c错误：位于“sounds”的“sound_definitions.json”中“close.nether_wood_door”等声音事件出错，无法第一时间修补！\n§b更新内容：\n·§e加入了自制樱花树叶纹理",
+            "type": "resources",
+            "uuid": "2662b50b-6dbe-443e-b536-2b56f311ba04",
+            "version": [1, 1, 0]
+      }
+   ],
+   "capabilities":[
+            "raytraced"
+   ]
+}
