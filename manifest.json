@@ -1,21 +1,38 @@
 {
-   "format_version": 2,
+   "format_version": 1,
    "header": {         
-      "description": "§eDev版！！！\n§c·警告：此材质包还在测试阶段，并不代表最终成果！\n§c错误：位于“sounds”的“sound_definitions.json”中“close.nether_wood_door”等声音事件出错，无法第一时间修补！\n§b更新内容：\n§e·更改了天空覆盖图、末地天空\n·对整包进行体积优化\n·退回了菜单全景图，退回到Dev1.0.0版本样式",
-      "name": "§b[Dev1.1.2]§dNewja Eastern's Texture Pack",
+      "description": "§eDev+版！\n§c·警告：此材质包还在测试阶段，并不代表最终成果！\n§b新版内容：§e\nUI界面重大升级\n",
+      "name": "§b[Dev+]§dLight Vanilla+",
       "uuid": "f7bab8a6-4679-442e-8bb4-08f91089eaa2",
-      "version": [1, 1, 2],
-      "min_engine_version": [1, 21, 0]
+      "version": [1, 4, 5],
+      "min_engine_version": [1, 2, 0]
    },    
    "modules": [
       {
-         "description": "§bDev版！！！\n§c·警告：此材质包还在测试阶段，并不代表最终成果！\n§c错误：位于“sounds”的“sound_definitions.json”中“close.nether_wood_door”等声音事件出错，无法第一时间修补！\n§b更新内容：\n·§e更改了天空覆盖图、末地天空\n·对整包进行体积优化\n·退回了菜单全景图，退回到Dev1.0.0版本样式",
+         "description": "§bDev+版！\n§c·警告：此材质包还在测试阶段，并不代表最终成果！\n§b新版内容：§e\nUI界面重大升级\n",
             "type": "resources",
             "uuid": "2662b50b-6dbe-443e-b536-2b56f311ba04",
-            "version": [1, 1, 2]
+            "version": [1, 4, 5]
       }
    ],
    "capabilities":[
             "raytraced"
+   ],
+   "subpacks":[
+      {
+         "folder_name":"pre_dev","name":"危险的pre_DEV测试环境","memory_tier":8
+      },
+      {
+         "folder_name":"unknown","name":"启动鬼畜","memory_tier":8
+      },
+      {
+         "folder_name":"mcpi_reborn","name":"Minecraft Pi Edition:Reborn","memory_tier":8
+      },
+      {
+         "folder_name":"pvp_mode","name":"PVP mode","memory_tier":8
+      },
+      {
+         "folder_name":"default","name":"默认","memory_tier":8
+      }
    ]
 }

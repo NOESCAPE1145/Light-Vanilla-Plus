@@ -1,0 +1,25 @@
+{
+  "biomes": {
+    "default": {
+      "water_surface_color": "#44AFF5",
+      "water_surface_transparency": 0.38,
+      "fog_identifier": "resource_embedded:fog_default",
+      "remove_all_prior_fog": false,
+      "inherit_from_prior_fog": false
+    },
+    "cherry_grove": {
+      "sky_color": {
+        "day": "#fccbe7",
+        "noon": "#fccbe7",
+        "sunset": "#fac38a",
+        "sunrise": "#fac38a",
+        "night": "#a881d4"
+      },
+      "fog_identifier": "resource_embedded:fog_cherry_grove",
+      "water_surface_color": "#ffc0e1",
+      "water_color": "#ffc0e1",
+      "water_fog_color": "#ffc0e1",
+      "inherit_from_prior_fog": false
+    }
+  }
+}
