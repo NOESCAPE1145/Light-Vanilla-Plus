@@ -1,0 +1,23 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.apple.first_person_idle": {
+			"loop": true,
+			"bones": {
+				"apple": {
+					"rotation": [23.37294, -35.52569, 215.75625],
+					"position": [-5, 29, -5]
+				}
+			}
+		},
+		"animation.apple.third_person_idle": {
+			"loop": true,
+			"bones": {
+				"apple": {
+					"rotation": [90.07602, -0.00029, -90.00665],
+					"position": [0.5, 21, -2.9]
+				}
+			}
+		}
+	}
+}
