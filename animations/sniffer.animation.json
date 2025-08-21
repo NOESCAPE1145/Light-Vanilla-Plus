@@ -258,7 +258,7 @@
 		},
 		"animation.sniffer.sniffsniff": {
 			"loop": true,
-			"animation_length": 8,
+			"animation_length": 2,
 			"bones": {
 				"nose": {
 					"scale": {

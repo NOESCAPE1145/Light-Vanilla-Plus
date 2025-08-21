@@ -1,18 +1,18 @@
 {
    "format_version": 1,
    "header": {         
-      "description": "§eDev+版！\n§c·警告：此材质包还在测试阶段，并不代表最终成果！\n§b新版内容：§e\nUI界面重大升级\n",
-      "name": "§b[Dev+]§dLight Vanilla+",
+      "description": "§eDev+版！\n§c·警告：此材质包还在测试阶段，并不代表最终成果！\n资源包协议为：CC-BY-NC-SA 4.0，请注意尊重原作者的知识产权。\n§b新版内容：§e\n添加了新的木质门纹理。\n修改了所有木板的纹理。",
+      "name": "§b[Dev+]§d轻版香草+",
       "uuid": "f7bab8a6-4679-442e-8bb4-08f91089eaa2",
-      "version": [1, 4, 5],
+      "version": [1, 5, 1],
       "min_engine_version": [1, 2, 0]
    },    
    "modules": [
       {
-         "description": "§bDev+版！\n§c·警告：此材质包还在测试阶段，并不代表最终成果！\n§b新版内容：§e\nUI界面重大升级\n",
+         "description": "§bDev+版！\n§c·警告：此材质包还在测试阶段，并不代表最终成果！\n资源包协议为：CC-BY-NC-SA 4.0，请注意尊重原作者的知识产权。\n§b新版内容：§e\n添加了新的木质门纹理。\n修改了所有木板的纹理。",
             "type": "resources",
             "uuid": "2662b50b-6dbe-443e-b536-2b56f311ba04",
-            "version": [1, 4, 5]
+            "version": [1, 5, 1]
       }
    ],
    "capabilities":[
@@ -20,19 +20,19 @@
    ],
    "subpacks":[
       {
-         "folder_name":"pre_dev","name":"危险的pre_DEV测试环境","memory_tier":8
+         "folder_name":"pre_dev","name":"pre_DEV测试环境","memory_tier":1
       },
       {
-         "folder_name":"unknown","name":"启动鬼畜","memory_tier":8
+         "folder_name":"unknown","name":"启动鬼畜","memory_tier":1
       },
       {
-         "folder_name":"mcpi_reborn","name":"Minecraft Pi Edition:Reborn","memory_tier":8
+         "folder_name":"mcpi_reborn","name":"Minecraft Pi Edition:Reborn","memory_tier":1
       },
       {
-         "folder_name":"pvp_mode","name":"PVP mode","memory_tier":8
+         "folder_name":"pvp_mode","name":"PVP mode","memory_tier":1
       },
       {
-         "folder_name":"default","name":"默认","memory_tier":8
+         "folder_name":"default","name":"默认","memory_tier":1
       }
    ]
 }

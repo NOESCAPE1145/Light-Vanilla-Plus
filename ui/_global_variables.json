@@ -240,13 +240,13 @@
   "$5_color_format": [ 0.667, 0.0, 0.667 ], // Dark Purple
   "$6_color_format": [ 1.0, 0.667, 0.0 ], // Gold
   "$7_color_format": [ 0.776, 0.776, 0.776 ], // Gray
-  "$8_color_format": [ 1.033, 1.033, 1.033 ], // Dark Gray
-  "$9_color_format": [ 1.033, 1.033, 1.0 ], // Blue
-  "$a_color_format": [ 1.033, 1.0, 1.033 ], // Green
-  "$b_color_format": [ 1.033, 1.0, 1.0 ], // Aqua
-  "$c_color_format": [ 1.0, 1.033, 1.033 ], // Red
-  "$d_color_format": [ 1.0, 1.033, 1.0 ], // Light Purple
-  "$e_color_format": [ 1.0, 1.0, 1.033 ], // Yellow
+  "$8_color_format": [ 0.333, 0.333, 0.333 ], // Dark Gray
+  "$9_color_format": [ 0.333, 0.333, 1.0 ], // Blue
+  "$a_color_format": [ 0.333, 1.0, 0.333 ], // Green
+  "$b_color_format": [ 0.333, 1.0, 1.0 ], // Aqua
+  "$c_color_format": [ 1.0, 0.333, 0.333 ], // Red
+  "$d_color_format": [ 1.0, 0.333, 1.0 ], // Light Purple
+  "$e_color_format": [ 1.0, 1.0, 0.333 ], // Yellow
   "$f_color_format": [ 1.0, 1.0, 1.0 ], // White
 
   //////// Trim materials colors ////////
