@@ -1,19 +1,18 @@
-//[Dev+]1.5.444的源代码未完全上传！
 {
    "format_version": 1,
    "header": {         
-      "description": "§eDev+版！\n§c·警告：此材质包还在测试阶段，并不代表最终成果！\n资源包协议为：CC-BY-NC-SA 4.0，请注意尊重原作者的知识产权。\n§b新版内容：§e\n添加了床，砖块，书架，雕纹书架，拒绝方块，允许方块的纹理\n修改了橡木木板的纹理",
+      "description": "§eDev+版！\n§c·警告：此材质包还在测试阶段，并不代表最终成果！\n资源包协议为：CC-BY-NC-SA 4.0，请注意尊重原作者的知识产权。\n§b新版内容：§e\n添加了触控的纹理",
       "name": "§b[Dev+]§d轻版香草+",
       "uuid": "f7bab8a6-4679-442e-8bb4-08f91089eaa2",
-      "version": [1, 5, 444],
+      "version": [1, 5, 5],
       "min_engine_version": [1, 2, 0]
    },    
    "modules": [
       {
-         "description": "§bDev+版！\n§c·警告：此材质包还在测试阶段，并不代表最终成果！\n资源包协议为：CC-BY-NC-SA 4.0，请注意尊重原作者的知识产权。\n§b新版内容：§e\n添加了床，砖块，书架，雕纹书架，拒绝方块，允许方块的纹理\n修改了橡木木板的纹理",
+         "description": "§bDev+版！\n§c·警告：此材质包还在测试阶段，并不代表最终成果！\n资源包协议为：CC-BY-NC-SA 4.0，请注意尊重原作者的知识产权。\n§b新版内容：§e\n添加了触控的纹理",
             "type": "resources",
             "uuid": "2662b50b-6dbe-443e-b536-2b56f311ba04",
-            "version": [1, 5, 444]
+            "version": [1, 5, 5]
       }
    ],
    "capabilities":[
@@ -36,5 +35,4 @@
          "folder_name":"default","name":"默认","memory_tier":1
       }
    ]
-
 }
