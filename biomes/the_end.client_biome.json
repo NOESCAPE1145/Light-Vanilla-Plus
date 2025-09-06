@@ -2,38 +2,26 @@
   "format_version": "1.21.70",
   "minecraft:client_biome": {
     "description": {
-      "identifier": "cherry_grove"
+      "identifier": "the_end"
     },
     "components": {
       "minecraft:sky_color": {
-        "sky_color": {
-        "day": "#ffc0cb",
-        "noon": "#ffc0cb",
-        "sunset": "#a493ff",
-        "sunrise": "#a493ff",
-        "night": "#ff8096"
-        }
+        "sky_color": "#a493ff"
       },
       "minecraft:fog_appearance": {
-        "fog_identifier": "resource_embedded:fog_cherry_grove"
+        "fog_identifier": "minecraft:fog_the_end"
       },
       "minecraft:water_appearance": {
-        "surface_color": "#ffc0e1"
-      },
-      "minecraft:foliage_appearance": {
-        "color": "#b6db61"
-      },
-      "minecraft:grass_appearance": {
-        "color": "#b6db61"
+        "surface_color": "#62529e"
       },
       "minecraft:atmosphere_identifier": {
-        "atmosphere_identifier": "minecraft:default_atmospherics"
+        "atmosphere_identifier": "minecraft:end_atmospherics"
       },
       "minecraft:color_grading_identifier": {
         "color_grading_identifier": "minecraft:default_color_grading"
       },
       "minecraft:lighting_identifier": {
-        "lighting_identifier": "minecraft:default_lighting"
+        "lighting_identifier": "minecraft:end_lighting"
       },
       "minecraft:water_identifier": {
         "water_identifier": "minecraft:default_water"

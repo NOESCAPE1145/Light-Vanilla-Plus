@@ -75,8 +75,9 @@
       "inherit_from_prior_fog": false
     },
     "the_end": {
+      "sky_color": "#a493ff",
       "water_surface_color": "#62529e",
-      "fog_identifier": "resource_embedded:fog_default",
+      "fog_identifier": "resource_embedded:fog_the_end",
       "inherit_from_prior_fog": false
     },
     "frozen_river": {
@@ -357,11 +358,11 @@
     },
     "cherry_grove": {
       "sky_color": {
-        "day": "#fccbe7",
-        "noon": "#fccbe7",
-        "sunset": "#d9b0ef",
-        "sunrise": "#d9b0ef",
-        "night": "#a881d4"
+        "day": "#ffc0cb",
+        "noon": "#ffc0cb",
+        "sunset": "#a493ff",
+        "sunrise": "#a493ff",
+        "night": "#ff8096"
       },
       "fog_identifier": "resource_embedded:fog_cherry_grove",
       "water_surface_color": "#ffc0e1",
