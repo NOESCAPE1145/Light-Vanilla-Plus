@@ -1,18 +1,18 @@
 {
    "format_version": 1,
    "header": {         
-      "description": "§eDev+版！\n§c·警告：此材质包还在测试阶段，并不代表最终成果！\n资源包协议为：CC-BY-NC-SA 4.0，请注意尊重原作者的知识产权。\n§b新版内容：§e\n暂无更新内容",
+      "description": "§eDev+版！\n§c·警告：此材质包还在测试阶段，并不代表最终成果！\n资源包协议为：CC-BY-NC-SA 4.0，请注意尊重原作者的知识产权。\n§b新版内容：§e\n添加了望远镜的模型和纹理，以及动画\n更新了“readme”和“readme.md”（使用条款）",
       "name": "§b[Dev+]§d轻版香草+",
       "uuid": "f7bab8a6-4679-442e-8bb4-08f91089eaa2",
-      "version": [1, 5, 55],
+      "version": [1, 5, 6],
       "min_engine_version": [1, 2, 0]
    },    
    "modules": [
       {
-         "description": "§bDev+版！\n§c·警告：此材质包还在测试阶段，并不代表最终成果！\n资源包协议为：CC-BY-NC-SA 4.0，请注意尊重原作者的知识产权。\n§b新版内容：§e\n暂无更新内容",
+         "description": "§bDev+版！\n§c·警告：此材质包还在测试阶段，并不代表最终成果！\n资源包协议为：CC-BY-NC-SA 4.0，请注意尊重原作者的知识产权。\n§b新版内容：§e\n添加了望远镜的模型和纹理，以及动画\n更新了“readme”和“readme.md”（使用条款）",
             "type": "resources",
             "uuid": "2662b50b-6dbe-443e-b536-2b56f311ba04",
-            "version": [1, 5, 55]
+            "version": [1, 5, 6]
       }
    ],
    "capabilities":[
