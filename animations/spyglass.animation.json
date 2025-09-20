@@ -1,0 +1,50 @@
+{
+	"format_version": "1.10.0",
+	"animations": {
+		"animation.spyglass.holding": {
+			"loop": true,
+			"bones": {
+				"geometry.spyglass": {
+					"rotation": ["c.is_first_person ? 58.0 : 0.0", "c.is_first_person ? -48.0 : -90.0", "c.is_first_person ? -44.0 : 0.0"],
+					"position": ["c.is_first_person ? 2.0 : 1.0", "c.is_first_person ? 25.0 : 22.0", "-1+c.is_first_person ? -2.0 : 0.0"]
+				},
+				"lens_front_group": {
+					"position": [3, 0, 0]
+				},
+				"middle_group": {
+					"position": [1, 0, 0]
+				}
+			}
+		},
+		"animation.spyglass.scoping": {
+			"loop": "hold_on_last_frame",
+			"animation_length": 0.25,
+			"bones": {
+				"geometry.spyglass": {
+					"rotation": [0, -90, 0],
+					"position": [-1, 27, -3]
+				},
+				"lens_front_group": {
+					"position": {
+						"0.0": [3, 0, 0],
+						"0.0417": [2.8, 0, 0],
+						"0.0833": [2.5, 0, 0],
+						"0.1667": [0.5, 0, 0],
+						"0.2083": [0.2, 0, 0],
+						"0.25": [0, 0, 0]
+					}
+				},
+				"middle_group": {
+					"position": {
+						"0.0": [1, 0, 0],
+						"0.0417": [0.9, 0, 0],
+						"0.0833": [0.75, 0, 0],
+						"0.1667": [0.25, 0, 0],
+						"0.2083": [0.1, 0, 0],
+						"0.25": [0, 0, 0]
+					}
+				}
+			}
+		}
+	}
+}
